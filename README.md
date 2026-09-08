@@ -4,6 +4,8 @@ A retro Asteroids game built with Python and Pygame. This project began as the
 Asteroids guided project on [Boot.dev](https://www.boot.dev/) and is being
 extended beyond the course requirements.
 
+[Boot.dev Profile](https://www.boot.dev/u/scollinspt)
+
 ## Play
 
 Play the browser version on [itch.io](https://scollinspt.itch.io/py-asteroids).
